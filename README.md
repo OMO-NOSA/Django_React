@@ -4,8 +4,8 @@ This project sets to achieve the following:
 
 2. Understand how my restful APIs are consumed at the frontend using axios
 
-3. Finally, you re-enforce my Django-Rest knowledge.
+3. Finally, to re-enforce my Django-Rest knowledge.
 
-And the project is a follow through of this tutorial
+This project is a follow through of this tutorial
 
 https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react
